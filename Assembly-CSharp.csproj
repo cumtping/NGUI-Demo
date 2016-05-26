@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Game\GameController.cs" />
-     <Compile Include="Assets\Scripts\GameCamera.cs" />
      <Compile Include="Assets\Scripts\Menu\HelpButton.cs" />
      <Compile Include="Assets\Scripts\Menu\HelpPanelCloseButton.cs" />
      <Compile Include="Assets\Scripts\Menu\Loading.cs" />
