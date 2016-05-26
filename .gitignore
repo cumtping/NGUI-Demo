@@ -3,3 +3,5 @@ Temp/*
 Library/metadata/
 *.bin
 *.log
+Library/metadata/
+*.info
